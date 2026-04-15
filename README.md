@@ -4,7 +4,7 @@
 Application web de gestion de tâches (type Trello) développée dans le cadre de l'évaluation Laravel. Elle permet de gérer des projets, d'y associer des tâches, et de catégoriser ces tâches avec des tags (relations 1:N et N:N).
 
 ## Membres du groupe
-- [Ton Prénom] [Ton Nom]
+- Mahery RANDRIAMANAMIHANTASOA
 
 ## Prérequis
 - Docker Desktop (ou OrbStack)
